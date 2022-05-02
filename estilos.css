@@ -1,0 +1,12 @@
+.bg-header{
+    background-color:dimgrey;
+}
+
+.bg-image{
+    background-image: url('Bootstrap/images/ba1.jpg');
+      height: 900px;
+      margin-top: 0px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
